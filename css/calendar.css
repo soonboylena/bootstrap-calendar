@@ -462,7 +462,7 @@ span[data-cal-date]:hover {
   color: #800080;
 }
 .cal-day-weekend{
-    background-color: lightgray;
+    background-color: #D0D0D0;
 }
 .cal-day-weekend span[data-cal-date] {
   color: darkred;
