@@ -461,8 +461,8 @@ span[data-cal-date]:hover {
 .cal-day-holiday span[data-cal-date] {
   color: #800080;
 }
-.cal-day-weekend{
-    background-color: #D0D0D0;
+.cal-day-weekend {
+  background-color: #D0D0D0;
 }
 .cal-day-weekend span[data-cal-date] {
   color: darkred;
